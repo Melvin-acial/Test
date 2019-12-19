@@ -2,8 +2,7 @@
 <suite name="Non régression" parallel="false" preserve-order="true" thread-count="1" >
 <test name="Suite de tests">
 <classes>
-<class name="acial.selenium.exercices.testA" />
-<class name="acial.selenium.exercices.TestB" />
+<class name="acial.selenium.exercices.Exercice4" />
 </classes>
 </test>
 </suite>
